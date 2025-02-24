@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #A7B3E4;
+    
+}
+header h1{
+    color:#5467AB;
+    text-shadow: 3px 5px 4px  white;
+}
+nav{
+    text-align: center;
+    
+}
+nav a{
+    color: #5467AB;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+}
+nav a:hover{
+    color:white;
+}
+.sale{
+    margin:30px;
+}
+.pro{
+    text-align: center;
+    font-size: 20px;
+}
+main{
+    background-color: #D2D9F5;
+}
+button{
+    background-color: #5467AB;
+    font-size: 20px;
+}
+button:hover{
+    background-color: white;
+}
+h2{
+    text-align: center;
+    text-shadow: 5px 3px 4px rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.new{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+article{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.popylar{
+     display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+footer{
+    height: 170px;
+      background-color: #A7B3E4;
+}
+.fotimg{
+    float: left;
+}
+footer h1{
+     color:#5467AB;
+    text-shadow: 3px 5px 4px  white;
+    margin-left: 75%;
+}
+.fot{
+    border-bottom: 4px solid black ;
+}
+footer h3{
+    font-size: 35px;
+}
